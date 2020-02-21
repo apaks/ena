@@ -1,3 +1,11 @@
+"""
+
+@author: Alexandr Pak
+
+Analyze ephys spikes 
+Our pipeline at Chubykin lab: Openephys .cont -> Kilosort -> Phy
+
+"""
 
 from __future__ import division
 import pandas as pd
