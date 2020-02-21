@@ -1,4 +1,4 @@
 # ena
 Ephys single unit analysis
 
-Spikes analysis
+Raster, PSTH, stats
