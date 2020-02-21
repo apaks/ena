@@ -1,2 +1,2 @@
 # ena
-Ephys spikes analysis
+Ephys single unit analysis
