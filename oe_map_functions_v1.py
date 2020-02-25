@@ -1,10 +1,13 @@
 
 # coding: utf-8
 
-'''
+"""
+
 used in Chubykin lab
 modified by Alex Pak
-''' 
+
+"""
+
 from __future__ import division
 # number_presentations = 3
 # Sampling_Rate=30000 # in Hz
