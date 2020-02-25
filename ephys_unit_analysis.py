@@ -3,7 +3,7 @@
 @author: Alexandr Pak
 
 Analyze ephys spikes 
-Our pipeline at Chubykin lab: Openephys .cont -> Kilosort -> Phy
+Our pipeline in Chubykin lab: Openephys .cont -> Kilosort -> Phy
 
 """
 
