@@ -7,7 +7,7 @@ Our pipeline Openephys .cont -> Kilosort -> Phy
 - fit double Gaus, diff-of-Gaus, contrast response function
 - Neural decoding
   
-Conttaines jupyter nbs that were used to analyze and plot neural data from the following papers:  
+Containes jupyter nbs that were used to analyze and plot neural data from the following papers:  
 
 Pak A, Ryu E, Li C, Chubykin AA. Top-Down Feedback Controls the Cortical Representation of Illusory Contours in Mouse Primary Visual Cortex. J Neurosci. 2020;40(3):648-660. doi:10.1523/JNEUROSCI.1998-19.2019  
 
